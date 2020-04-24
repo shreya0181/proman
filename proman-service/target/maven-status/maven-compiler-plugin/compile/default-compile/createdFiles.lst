@@ -1,0 +1,6 @@
+com\upgrad\proman\service\Entity\RoleEntity.class
+com\upgrad\proman\service\Entity\UserEntity.class
+com\upgrad\proman\service\Serviceconfig.class
+com\upgrad\proman\service\Business\SignupBusinessService.class
+com\upgrad\proman\service\Dao\UserDao.class
+com\upgrad\proman\service\Entity\UserAuthTokenEntity.class

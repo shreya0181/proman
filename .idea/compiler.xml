@@ -9,7 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="proman-api" />
         <module name="proman-db" />
-        <module name="proman-servise" />
+        <module name="proman-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />

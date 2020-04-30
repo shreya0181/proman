@@ -20,6 +20,7 @@ import java.util.UUID;
 @RestController
 @RequestMapping("/")
 public class SignupController {
+
     @Autowired
     private SignupBusinessService signupBusinessService;
 
